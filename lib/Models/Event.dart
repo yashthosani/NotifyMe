@@ -2,10 +2,12 @@ class Event{
 
   final String name;
   final String date;
-  final String type;
+  final String address;
+  final String description;
+  
 
 
-  Event(this.name, this.date, this.type);
+  Event(this.name, this.date, this.address, this.description);
 
 
   
