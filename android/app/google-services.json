@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476341797770",
+    "firebase_url": "https://saudaproject.firebaseio.com",
+    "project_id": "saudaproject",
+    "storage_bucket": "saudaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476341797770:android:9bd06920d122fa767fbe73",
+        "android_client_info": {
+          "package_name": "com.yash.notifyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476341797770-lmr5rjpav8vqtqdr01du59smjdt51eo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADb0HpeMHNyj2bf-cz0KaAL7nisi_K0vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476341797770-lmr5rjpav8vqtqdr01du59smjdt51eo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
